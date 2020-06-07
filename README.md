@@ -81,7 +81,7 @@ Throughout the process, make sure to push your code and comments to Github so th
 
 Starter Code
 The coding for this project can be completed using the Project Workspace IDE provided. Here's the file structure of the project:
-
+```
 - app
 | - template
 | |- master.html  # main page of web app
@@ -99,6 +99,7 @@ The coding for this project can be completed using the Project Workspace IDE pro
 |- classifier.pkl  # saved model 
 
 - README.md
+```
 Running the Web App from the Project Workspace IDE
 When working in the Project Workspace IDE, here is how to see your Flask app.
 
