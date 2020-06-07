@@ -60,9 +60,11 @@ Data Pipelines: Python Scripts
 After you complete the notebooks for the ETL and machine learning pipeline, you'll need to transfer your work into Python scripts, process_data.py and train_classifier.py. If someone in the future comes with a revised or new dataset of messages, they should be able to easily create a new model just by running your code. These Python scripts should be able to run with additional arguments specifying the files used for the data and model.
 
 Example:
+```
 python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db
 
 python train_classifier.py ../data/DisasterResponse.db classifier.pkl
+```
 Templates for these scripts are provided in the Resources section, as well as the Project Workspace IDE. The code for handling these arguments on the command line is given to you in the templates.
 
 Flask App
