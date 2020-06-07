@@ -106,21 +106,24 @@ When working in the Project Workspace IDE, here is how to see your Flask app.
 Open a new terminal window. You should already be in the workspace folder, but if not, then use terminal commands to navigate inside the folder with the run.py file.
 
 Type in the command line:
-
+```
 python run.py
+```
 Your web app should now be running if there were no errors.
 
 Now, open another Terminal Window.
 
 Type
-
+```
 env|grep WORK
+```
 You'll see output that looks something like this:
 
 
 In a new web browser window, type in the following:
-
+```
 https://SPACEID-3001.SPACEDOMAIN
+```
 In this example, that would be: "https://viewa7a4999b-3001.udacity-student-workspaces.com/" (Don't follow this link now, this is just an example.)
 
 Your SPACEID might be different.
