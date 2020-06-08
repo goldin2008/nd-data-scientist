@@ -1,5 +1,5 @@
 # Starbucks Capstone Project
-This is my Starbucks Capstone Project for the Udacity Machine Learning Engineer Nanodegree. Udacity partnered with Starbucks to provide a real-world business problem and simulated data mimicking their customer behavior.
+This is my Starbucks Capstone Project for the Udacity DS Nanodegree. Udacity partnered with Starbucks to provide a real-world business problem and simulated data mimicking their customer behavior.
 
 # Context
 Starbucks Corporation is an American coffee company and operates over 30,000 locations worldwide. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. The company would like to select customers with the highest probability of making a purchase, in contrast, want to know the customers who don’t like to receive offers too. In other words, the right offer to the right customer.
