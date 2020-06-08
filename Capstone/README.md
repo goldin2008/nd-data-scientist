@@ -3,12 +3,13 @@
 ## Build Your Data Science Project
 In this capstone project, you will leverage what you’ve learned throughout the program to build a data science project of your choosing. Your project deliverables are:
 
-1.A Github repository of your work.
+1. A Github repository of your work.
 
-2.A blog (or other medium for a write-up) post written for a technical audience, or a deployed web application powered by data.
+2. A blog (or other medium for a write-up) post written for a technical audience, or a deployed web application powered by data.
+
 You'll follow the steps of the data science process that we've discussed:
 
-1. You will first define the problem you want to solve and investigate potential solutions.
+1. You will first *define* the problem you want to solve and investigate potential solutions.
 
 2. Next, you will analyze the problem through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it.
 
