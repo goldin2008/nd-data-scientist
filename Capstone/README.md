@@ -9,15 +9,15 @@ In this capstone project, you will leverage what you’ve learned throughout the
 
 You'll follow the steps of the data science process that we've discussed:
 
-1. You will first **define** the problem you want to solve and investigate potential solutions.
+1. You will first :+1:**define** the problem you want to solve and investigate potential solutions.
 
-2. Next, you will **analyze** the problem through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it.
+2. Next, you will :+1:**analyze** the problem through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it.
 
-3. You will then **implement** the algorithms and metrics of your choice, documenting the preprocessing, refinement, and post-processing steps along the way.
+3. You will then :+1:**implement** the algorithms and metrics of your choice, documenting the preprocessing, refinement, and post-processing steps along the way.
 
-4. Afterwards, you will collect **results** about your findings, visualize significant quantities, validate/justify your results, and make any concluding remarks about whether your implementation adequately solves the problem.
+4. Afterwards, you will collect :+1:**results** about your findings, visualize significant quantities, validate/justify your results, and make any concluding remarks about whether your implementation adequately solves the problem.
 
-5. Finally, you will **construct** a blog post (or other medium for a write-up) to document all of the steps from start to finish of your project, or deploy your results into a web application.
+5. Finally, you will :+1:**construct** a blog post (or other medium for a write-up) to document all of the steps from start to finish of your project, or deploy your results into a web application.
 
 ### Setting Yourself Apart
 An important part of landing a job or advancing your career as a data scientist is setting yourself apart through impressive data science projects. By now, you've completed several guided projects, and now's your chance to show off your skills and creativity. You'll receive a review of your project with feedback from a Udacity mentor, and they will focus on how your project demonstrates your skills as a well-rounded data scientist.
