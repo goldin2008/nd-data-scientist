@@ -76,7 +76,7 @@ Event log (306648 events x 4 fields)
 - person: (string/hash)
 - event: (string) offer received, offer viewed, transaction, offer completed
 - value: (dictionary) different values depending on event type
--- offer id: (string/hash) not associated with any "transaction"
-*- amount: (numeric) money spent in "transaction"
-*- reward: (numeric) money gained from "offer completed"
+  - offer id: (string/hash) not associated with any "transaction"
+  - amount: (numeric) money spent in "transaction"
+  - reward: (numeric) money gained from "offer completed"
 - time: (numeric) hours after start of test
