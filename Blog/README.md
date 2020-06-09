@@ -38,3 +38,7 @@ BlackFriday.csv       - This file contains 550,000 observations about the black 
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@goldin20082011/write-a-data-science-blog-post-f0209fcd188c).
+
+## Licensing, Authors, Acknowledgements
+
+Must give credit to Udacity courses for some of code ideas, and to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
