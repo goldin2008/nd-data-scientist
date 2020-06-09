@@ -27,7 +27,7 @@ Question 3: Which products are most popular during Black Friday, list the top 20
 
 Question 4: Look at the users again, this time focus on group by Occupation in different city
 
-Question 5: Correlation between Gender, Age, Occupation, City_Category, Stay_In_Current_City_Years, Marital_Status, Product_Category_x vs Purchase
+Question 5: Find Correlation between all variables.
 
 ## File Descriptions <a name="files"></a>
 
