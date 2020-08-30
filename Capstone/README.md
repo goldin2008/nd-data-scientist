@@ -1,4 +1,6 @@
 # Starbucks Capstone Project
+> https://github.com/alsehibanis/Starbucks_Challenge/blob/master/Starbucks_Capstone_notebook.ipynb
+
 This is my Starbucks Capstone Project for the Udacity DS Nanodegree. Udacity partnered with Starbucks to provide a real-world business problem and simulated data mimicking their customer behavior.
 
 # Context
